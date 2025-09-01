@@ -1,0 +1,34 @@
+h1 {
+        color: rgb(252, 155, 224);
+    }
+h3 {
+    color: rgb(23, 215, 35);
+    }
+#p1 {
+    text-align: justify;
+    text-indent: 20pt;
+    color: rgb(228, 244, 2); 
+    }
+
+.p2 {
+    text-align: justify;
+    text-indent: 20pt;
+    color: rgb(244, 15, 160);
+    }
+
+/* Style Table */
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
